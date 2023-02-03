@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RecipesApp</string>
+    <string name="chicken_parm_lasagna">Chicken Parm Lasagna</string>
+    <string name="garlic_parm_pasta"> Garlic Parmesan Pasta </string>
+    <string name="mac_n_cheese">Mac and Cheese</string>
+    <string name="garlic_bread">3-Cheese Garlic Bread</string>
+    <string name="teriyaki_chicken">3-Ingredient Teriyaki Chicken</string>
+    <string name="creamy_tuscan">Creamy Tuscan Chicken</string>
+    <string name="honey_garlic_chicken">One-Pan Honey Garlic Chicken</string>
+    <string name="choco_chip">Chocolate Chip Cookies</string>
+    <string name="title_activity_recipe_description">RecipeDescription</string>
+</resources>
